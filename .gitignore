@@ -1,0 +1,6 @@
+*.log
+johnphho.github.io
+johnphho.github.io.source
+jq
+hugoThemes
+hugo-ghpager.test.sh
